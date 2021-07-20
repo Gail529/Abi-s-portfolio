@@ -1,9 +1,9 @@
 
 ---
-
+## NLP
 ### Mental health in the Tech Industry.
 
-###### Detecting Depressive characteristics in tweets NLP,LSTM
+#### Detecting Depressive characteristics in tweets NLP,LSTM
 Took a semi-supervised approach to emotional analysis.<br>
 Combined the power of **LSTM** Neural networks and Emotion lexicons to detect depressive sentiments in text.<br>
 Made use of:
@@ -14,7 +14,7 @@ Made use of:
 [![](https://img.shields.io/badge/colab-Run%20colab%20notebook-orange)](link-to-our-project) <br>
 [![](https://img.shields.io/badge/streamlit-View%20App-red)](Link-to-app)
 
-###### Analysis Tableau
+#### Analysis Tableau
 In an attempt to understand the state of mental health in people working in the Tech Industry and the general population,I carried out an analysis and prepared a dashboard on Tableau<br>
 Using the following datasets:
 1. Kaggle-dataset[Name of dataset](/Link to the dataset)
@@ -37,14 +37,13 @@ Since I am a huge fan of Taylor Swift. I drew up a simple algorithm that can sug
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
-###### Analysis Tableau
+##### Analysis Tableau
 I also took the opportunity to understand the emotional and audio features present in her songs.Visualized the results of the analysis on Tableau.<br>
 [![](https://img.shields.io/badge/Tableau-Dashboard-blue)](/Link-to-app)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-#### 
+ 
 ### Tableau Projects
 [![](https://img.shields.io/badge/Tableau-Dashboard-blue)](/Link-to-app)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
