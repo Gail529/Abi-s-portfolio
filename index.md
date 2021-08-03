@@ -5,8 +5,8 @@
 
 ##### Detecting Depressive characteristics in tweets NLP,LSTM
 
-[![](https://img.shields.io/badge/colab-Run%20colab%20notebook-orange)](link-to-our-project) 
-[![](https://img.shields.io/badge/streamlit-View%20App-red)](Link-to-app)
+[![](https://img.shields.io/badge/Github-View%20Code-lightgrey)](https://github.com/Gail529/Mental-health)
+
 
 Took a semi-supervised approach to emotional analysis.<br>
 Combined the power of **LSTM** Neural networks and Emotion lexicons to detect depressive sentiments in text.<br>
@@ -18,7 +18,7 @@ Made use of:
 
 ##### Analysis Tableau
 
-[![](https://img.shields.io/badge/Tableau-Dashboard-blue)](/Link-to-app)
+[![](https://img.shields.io/badge/Tableau-Dashboard-blue)](https://public.tableau.com/app/profile/abigail.wairimu)
 
 In an attempt to understand the state of mental health in people working in the Tech Industry <br> and the general population,I carried out an analysis and prepared a dashboard on Tableau<br>
 Using the following datasets:
@@ -30,7 +30,7 @@ Using the following datasets:
 ---
 ### Automated Essay Scoring
 
-[![](https://img.shields.io/badge/Github-View%20Code-lightgrey)](link-to-our-project)
+[![](https://img.shields.io/badge/colab-Run%20colab%20notebook-orange)](https://colab.research.google.com/github/Gail529/AES/blob/main/automated_essay_scoring.ipynb) 
 
 Leveraged the power of recurrent neural networks to grade academic essays.<br>
 Made use of:
@@ -43,7 +43,7 @@ Made use of:
 ### Mood-aware music Recommendation system.
 
 [![](https://img.shields.io/badge/streamlit-View%20App-red)](Link-to-app)
-[![](https://img.shields.io/badge/Github-View%20Code-lightgrey)](link-to-our-project)
+[![](https://img.shields.io/badge/Github-View%20Code-lightgrey)](https://github.com/Gail529/Taylor)
 
 A content-based reccomendation system which can suggest different Taylor Swift songs depending on my mood.<br>
 Made use of:
@@ -58,7 +58,7 @@ Made use of:
 
 ##### Analysis Tableau
 
-[![](https://img.shields.io/badge/Tableau-Dashboard-blue)](/Link-to-app) <br>
+[![](https://img.shields.io/badge/Tableau-Dashboard-blue)](https://public.tableau.com/app/profile/abigail.wairimu) <br>
 
 I also took the opportunity to understand the emotional and audio features present in her songs.Visualized the results of the analysis on Tableau.<br>
 <img src="images/Screenshot (63).png" width="400"/>
@@ -68,7 +68,7 @@ I also took the opportunity to understand the emotional and audio features prese
 ### Chess
 #### Analysis
  
- [![](https://img.shields.io/badge/colab-Run%20colab%20notebook-orange)](link-to-our-project) 
+ [![](https://img.shields.io/badge/colab-Run%20colab%20notebook-orange)](https://colab.research.google.com/github/Gail529/Chess_EDA/blob/main/chess_EDA.ipynb) 
  
  Investigated the different factors contributing to the growth of a chess player by analysing 20000 games from lichess.org. 
 
@@ -81,7 +81,7 @@ Used supervised machine learning algorithms (Logistic Regression,Desicion Trees 
 ---
  
 ### Tableau Projects
-[![](https://img.shields.io/badge/Tableau-Dashboard-blue)](/Link-to-app)
+[![](https://img.shields.io/badge/Tableau-Dashboard-blue)](https://public.tableau.com/app/profile/abigail.wairimu)
 
 #### School shootings data
 <img src="images/Screenshot (59).png" width="400"/>
