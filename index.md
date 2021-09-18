@@ -6,6 +6,7 @@
 ##### Detecting Depressive characteristics in tweets NLP,LSTM
 
 [![](https://img.shields.io/badge/Github-View%20Code-lightgrey)](https://github.com/Gail529/Mental-health)
+[![](https://img.shields.io/badge/streamlit-View%20App-red)](https://share.streamlit.io/gail529/mh_streamlit/main/streamlit/MH_app.py)
 
 
 Took a semi-supervised approach to emotional analysis.<br>
@@ -42,7 +43,7 @@ Made use of:
 ---
 ### Mood-aware music Recommendation system.
 
-[![](https://img.shields.io/badge/streamlit-View%20App-red)](Link-to-app)
+[![](https://img.shields.io/badge/streamlit-View%20App-red)](https://share.streamlit.io/gail529/taylor_streamlit/main/taylor/app.py)
 [![](https://img.shields.io/badge/Github-View%20Code-lightgrey)](https://github.com/Gail529/Taylor)
 
 A content-based reccomendation system which can suggest different Taylor Swift songs depending on my mood.<br>
